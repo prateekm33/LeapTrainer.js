@@ -1,0 +1,19 @@
+{
+  "name": "lt",
+  "version": "1.0.0",
+  "description": "A gesture and pose learning and recognition framework for the [Leap Motion](http://www.leapmotion.com/).",
+  "main": "leaptrainer-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekm33/LeapTrainer.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekm33/LeapTrainer.js/issues"
+  },
+  "homepage": "https://github.com/prateekm33/LeapTrainer.js#readme"
+}
